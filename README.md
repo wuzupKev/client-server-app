@@ -1,9 +1,12 @@
 # Java Console Chat Application
+<img width="1643" height="247" alt="image" src="https://github.com/user-attachments/assets/eda81017-7ae1-4b7f-bf29-196ac393a993" />
+
 
 ## Overview
 This project is a simple console-based chat application built using Java sockets. It follows a client-server architecture where multiple clients can connect to a server and exchange messages in real time through the terminal.
 
 The project demonstrates the basics of network programming in Java, including socket communication, input/output streams, and multithreading.
+
 
 ## Architecture
 
